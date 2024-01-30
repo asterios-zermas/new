@@ -1,6 +1,6 @@
 1. Data Analyst at Good Hood GmbH (https://smartapply.indeed.com/beta/indeedapply/form/contact-info)
 
-   Profile:
+Profile:
 a. A minimum of 2 years of experience in data analytics or a related field
 b. Proficiency in SQL, with an ability to write complex yet well-structured and well-documented queries to extract and manipulate data.
 c. Familiarity with dbt is a definite plus
@@ -13,7 +13,7 @@ i. Adaptability: Comfortable and adaptive in a high-speed, dynamic work environm
 
 2. Data Analyst at E-Farm (https://smartapply.indeed.com/beta/indeedapply/form/contact-info)
 
-  Profile:
+Profile:
 a. Minimum 3 years of experience as a Data Analyst
 b. Expertise in SQL and creating visual reports using tools like Tableau
 c. Detail-oriented approach in your work
